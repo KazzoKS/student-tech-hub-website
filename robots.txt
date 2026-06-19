@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kazzoks.github.io/student-tech-hub-website/sitemap.xml
